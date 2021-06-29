@@ -7,10 +7,11 @@
 **Languages and Tools:**  
 
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+<code><img height="35" src="https://dev.co/wp-content/uploads/2020/06/iOS.png"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
-
 
 
 
